@@ -24,6 +24,6 @@ Check out the live demo: [Live Demo](https://biveksah99.netlify.app/)
 To run the project locally, follow these steps:
 
 ```sh
-git clone https://github.com/your-username/personal-profile.git
-cd personal-profile
+git clone https://github.com/Biveksah99/Personal.git
+cd personal
 open index.html
